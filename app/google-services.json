@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "749633540338",
+    "firebase_url": "https://fir-ml-913af.firebaseio.com",
+    "project_id": "fir-ml-913af",
+    "storage_bucket": "fir-ml-913af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749633540338:android:5d1fe402cbdcd479",
+        "android_client_info": {
+          "package_name": "com.zoftino.barcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749633540338-p1k38n920qcc0gd3va67p96c34je2ctu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNIalK_DXjwDQTdvp30VDB4OMbcz6-c5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749633540338-p1k38n920qcc0gd3va67p96c34je2ctu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749633540338:android:34f7db74eef5ed3a",
+        "android_client_info": {
+          "package_name": "com.zoftino.firebaseml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749633540338-p1k38n920qcc0gd3va67p96c34je2ctu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNIalK_DXjwDQTdvp30VDB4OMbcz6-c5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749633540338-p1k38n920qcc0gd3va67p96c34je2ctu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
